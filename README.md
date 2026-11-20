@@ -8,10 +8,8 @@ Portfolio personnel présentant mon parcours en **BTS SIO (option SLAM)**, mes p
 
 ## Aperçu & Fonctionnalités
 
-- **Design "Dark Impact" :** Interface moderne pensée pour la lisibilité et le contraste.
 - **Mode Sombre / Mode Clair :** Bascule fluide avec sauvegarde automatique de la préférence utilisateur (`localStorage`).
 - **Nuance dynamique au scroll :** Évolution progressive de la couleur d'accentuation (du cyan vers le violet en espace colorimétrique HSL) selon la progression du défilement.
-- **Responsive Design :** Adaptation complète sur ordinateur, tablette et mobile.
 
 ## Stack technique
 
